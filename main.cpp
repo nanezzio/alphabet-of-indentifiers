@@ -3,6 +3,7 @@
 
 int main()
 {
+    std::cout << IdentifierGenerator::GenerateNextIdentifier("A1") << std::endl;
 
 
 

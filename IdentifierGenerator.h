@@ -1,0 +1,6 @@
+#ifndef IDENTIFIER_GENERATOR_H
+#define IDENTIFIER_GENERATOR_H
+
+
+
+#endif

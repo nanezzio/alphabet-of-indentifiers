@@ -2,6 +2,8 @@
 .vs/
 *.suo
 *.user
+*.userosscache
+*.sln.docstates
 
 # Build output
 Debug/
@@ -10,10 +12,24 @@ x64/
 x86/
 build/
 
-# Object files
+# Intermediate files
 *.obj
 *.o
+*.pch
+*.pdb
+*.ilk
+*.idb
+*.ipch
+*.tlog
 
 # Executables
 *.exe
 *.out
+
+# Visual Studio cache
+*.VC.db
+*.VC.opendb
+
+
+# Logs
+*.log

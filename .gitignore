@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+build/
+
+# Object files
+*.obj
+*.o
+
+# Executables
+*.exe
+*.out
